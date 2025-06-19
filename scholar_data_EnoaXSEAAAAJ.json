@@ -1,0 +1,280 @@
+{
+  "Journal": [
+    {
+      "Authors": "Taciane Ladislau, Débora Silva, Klesia Pirola Madeira, Renata Dalmaschio Daltoé, Marcela Ferreira Paes, Alice Laschuck Herlinger, Paulo Cilas Morais Lyra Junior, Ian Victor Silva, Leticia Batista Azevedo Rangel",
+      "Publication date": "2012/4/15",
+      "Journal": "Cancer Research",
+      "Volume": "72",
+      "Issue": "8_Supplement",
+      "Pages": "161-161",
+      "Publisher": "American Association for Cancer Research",
+      "Description": "Background Ovarian cancer (OVCA) is the second cause of gynecological-cancer deaths in Brazil, being frequently associated to chemotherapy resistance, a characteristic usually associated to PI3K/Akt/mTOR. We herein present data concerning the role of mTORC2 in cisplatin-resistant phenotype acquisition by OVCA cells. Methods Antineoplastic efficacy of cisplatin, doxorubicin, paclitaxel, and rapamycin was accessed, in different combinations, in the OVCA lineage OVCAR3 (cisplatin-resistant, advanced serous OVCA), through cellular metabolic viability (CMV) (MTT method). Cells were cultured in RPMI media supplemented with 10% (v/v) FBS and antibiotics until subconfluence. To characterize the role of mTORC1 or mTORC2 in OVCAR3 MCV, 1.5x105 cells/well were treated according to: EA1) Inhibition of mTORC1: Drugs at IC50 for 24h; EA2) Inhibition of mTORC1 and mTORC2: Rapamycin 100nM for …",
+      "Scholar articles": "The role of mTOR in the cisplatin resistant phenotype in ovarian cancer lineage T Ladislau, D Silva, KP Madeira, RD Daltoé, MF Paes… - Cancer Research, 2012 Related articles"
+    },
+    {
+      "Authors": "Isabella S Guimarães, Nayara G Tessarollo, P Lyra-Junior, Diandra Z dos Santos, Roger C Zampier, LFRL de Oliveira, Krislayne V Siqueira, Ian V Silva, LB Rangel",
+      "Publication date": "2015/10/28",
+      "Journal": "Updates on cancer treatment",
+      "Publisher": "InTechOpen, London",
+      "Description": "The phosphoinositide 3-kinase (PI3K)/protein kinase B (AKT)/mammalian target of rapamycin (mTOR) pathway is a critical regulator of many essential physiological processes, but it also plays a key role in the malignant transformation of human tumors and their subsequent growth, metabolism, proliferation, and metastasis [1]. Previous studies have demonstrated that the PI3K/AKT/mTOR pathway is frequently activated in human cancers due to the somatic mutation and amplification of genes encoding key components [2, 3]. In addition, aberrant PI3K/AKT/mTOR signaling activation also confers resistance to conventional therapies and is a poor prognostic factor for many types of cancers [4, 5]. Several agents that target the PI3K/AKT/mTOR cascade elements are undergoing evaluation in preclinical and clinical studies. These include PI3K inhibitors, AKT inhibitors, mTOR catalytic site inhibitors, and dual PI3K-mTOR inhibitors. This chapter focuses on recent preclinical and clinical data on the efficacy of PI3K/AKT/mTOR pathway inhibitors either as monotherapy or in combination with conventional chemotherapy or others target drugs. Herein, we review four different classes of PI3K pathway inhibitors: PI3K inhibitors, AKT inhibitors, mTOR catalytic site inhibitors, and dual PI3K-mTOR inhibitors.",
+      "Total citations": "Cited by 14 2018 2019 2020 2021 2022 2023 2024 2025 3 1 2 4 2 1 1",
+      "Scholar articles": "Targeting the PI3K/AKT/mTOR pathway in cancer cells IS Guimarães, NG Tessarollo, P Lyra-Junior… - Updates on cancer treatment, 2015 Cited by 14 Related articles All 4 versions"
+    },
+    {
+      "Authors": "Melissa A Buckley, Nicholas T Woods, Jonathan P Tyrer, Gustavo Mendoza-Fandiño, Kate Lawrenson, Dennis J Hazelett, Hamed S Najafabadi, Anxhela Gjyshi, Renato S Carvalho, Paulo C Lyra Jr, Simon G Coetzee, Howard C Shen, Ally W Yang, Madalene A Earp, Sean J Yoder, Harvey Risch, Georgia Chenevix-Trench, Susan J Ramus, Catherine M Phelan, Gerhard A Coetzee, Houtan Noushmehr, Timothy R Hughes, Thomas A Sellers, Ellen L Goode, Paul D Pharoah, Simon A Gayther, Alvaro NA Monteiro",
+      "Publication date": "2019/2/1",
+      "Journal": "Cancer research",
+      "Volume": "79",
+      "Issue": "3",
+      "Pages": "467-481",
+      "Publisher": "American Association for Cancer Research",
+      "Description": "Genome-wide association studies have identified 40 ovarian cancer risk loci. However, the mechanisms underlying these associations remain elusive. In this study, we conducted a two-pronged approach to identify candidate causal SNPs and assess underlying biological mechanisms at chromosome 9p22.2, the first and most statistically significant associated locus for ovarian cancer susceptibility. Three transcriptional regulatory elements with allele-specific effects and a scaffold/matrix attachment region were characterized and, through physical DNA interactions, BNC2 was established as the most likely target gene. We determined the consensus binding sequence for BNC2 in vitro , verified its enrichment in BNC2 ChIP-seq regions, and validated a set of its downstream target genes. Fine-mapping by dense regional genotyping in over 15,000 ovarian cancer cases and 30,000 controls identified …",
+      "Total citations": "Cited by 28 2019 2020 2021 2022 2023 2024 2025 3 4 2 11 3 4 1",
+      "Scholar articles": "Functional analysis and fine mapping of the 9p22. 2 ovarian cancer susceptibility locus MA Buckley, NT Woods, JP Tyrer, G Mendoza-Fandiño… - Cancer research, 2019 Cited by 28 Related articles All 25 versions"
+    },
+    {
+      "Authors": "Alexander Gusev, Kate Lawrenson, Xianzhi Lin, Paulo C Lyra Jr, Siddhartha Kar, Kevin C Vavra, Felipe Segato, Marcos AS Fonseca, Janet M Lee, Tanya Pejovic, Gang Liu, Ovarian Cancer Association Consortium, Beth Y Karlan, Matthew L Freedman, Houtan Noushmehr, Alvaro N Monteiro, Paul DP Pharoah, Bogdan Pasaniuc, Simon A Gayther",
+      "Publication date": "2019/5",
+      "Journal": "Nature genetics",
+      "Volume": "51",
+      "Issue": "5",
+      "Pages": "815-823",
+      "Publisher": "Nature Publishing Group US",
+      "Description": "We sought to identify susceptibility genes for high-grade serous ovarian cancer (HGSOC) by performing a transcriptome-wide association study of gene expression and splice junction usage in HGSOC-relevant tissue types ( N = 2,169) and the largest genome-wide association study available for HGSOC ( N = 13,037 cases and 40,941 controls). We identified 25 transcriptome-wide association study significant genes, 7 at the junction level only, including LRRC46 at 19q21.32, ( P = 1 × 10 −9 ), CHMP4C at 8q21 ( P = 2 × 10 −11 ) and a PRC1 junction at 15q26 ( P = 7 × 10 −9 ). In vitro assays for CHMP4C showed that the associated variant induces allele-specific exon inclusion ( P = 0.0024). Functional screens in HGSOC cell lines found evidence of essentiality for three of the new genes we identified: HAUS6 , KANSL1 and PRC1 , with the latter comparable to MYC . Our study implicates at least one target …",
+      "Total citations": "Cited by 121 2019 2020 2021 2022 2023 2024 2025 3 18 21 21 26 21 11",
+      "Scholar articles": "A transcriptome-wide association study of high-grade serous epithelial ovarian cancer identifies new susceptibility genes and splice variants A Gusev, K Lawrenson, X Lin, PC Lyra Jr, S Kar… - Nature genetics, 2019 Cited by 121 Related articles All 17 versions"
+    },
+    {
+      "Authors": "Diandra Zipinotti dos Santos, Isabella dos Santos Guimarães, Nayara Gusmão Tessarollo, Taciane Barbosa Henriques Barbosa Henriques, Paulo Cilas Lyra Junior, Marcele L L de Souza, Maria C Gomes, Ian Victor Silva, Leticia BA Rangel",
+      "Publication date": "2019/7/1",
+      "Journal": "Cancer Research",
+      "Volume": "79",
+      "Issue": "13_Supplement",
+      "Pages": "5276-5276",
+      "Publisher": "The American Association for Cancer Research",
+      "Description": "Breast cancer (BC) is the second most common kind of cancer in the world and the most common among women. Its frequency rate is becoming alarming, being this way a major challenge to global health. It is worth mentioning that the lack of effective therapeutic options, in particular for certain subtypes, such as triple-negative tumor, still present a challenge for clinicians who often have to resort to highly unspecific cytotoxic therapies. Unfortunately, most patients relapse after a period of remission and eventually tumors becomes refractory to frontline therapy. This makes it desirable to identify drugs which synergize with chemotherapeutics and potentially reduce the dose of them that is necessary to treat patients. In the current financial and economical context, drug repositioning is gaining increasing interest as an alternative strategy for drug development. Cancer cells frequently exhibit specific alterations in their …",
+      "Scholar articles": "Enhancement of cisplatin activity against triple negative breast cancer cells by atorvastatin DZ Santos, IS Guimarães, NG Tessarollo… - Cancer Research, 2019 Related articles"
+    },
+    {
+      "Authors": "Taciane Henriques, Diandra dos Santos, Isabella Guimaraes, Nayara Tessarollo, Paulo Lyra, Patricia Mesquisa, Diana Padua, Ana Luisa Amaral, Luisa Pereira, Bruno Cavadas, Ian Silva, Raquel Almeida, Leticia Rangel",
+      "Publication date": "2019/12/1",
+      "Journal": "Molecular Cancer Therapeutics",
+      "Volume": "18",
+      "Issue": "12_Supplement",
+      "Pages": "A133-A133",
+      "Publisher": "The American Association for Cancer Research",
+      "Description": "Epithelial ovarian cancer (EOC) remains the most lethal gynecologic malignancy. Indeed, EOC epidemiological scenario is partially due to its late diagnosis, when most of tumor cells have acquired metastatic and chemoresistant phenotype. Despite the initial satisfactory response of EOC cells to platinum/taxanes-based therapy, chemoresistance emerges in an uncontrolled pace, specifically when the patient carries a high-grade serous adenocarcinoma (HGS-AC). Therefore, EOC clinic urges for novel treatment possibilities, aiming the reversal of chemoresistance, the improvement of patients’ quality of life, and their survival rates. cDNA microarray data from our group demonstrated that chemokines secreted to the tumor microenvironment, as CXCL2, IL-6, and IL-8 likely play a crucial role in EOC cells chemoresistance. Thereafter, the present study focused on the role of CXCL2, which binds to its receptor CXCR2 in …",
+      "Scholar articles": "Abstract A133: Role of CXCR2 in the acquisition of pan-resistant phenotype in high grade serous ovarian cancer cells T Henriques, D Santos, I Guimaraes, N Tessarollo… - Molecular Cancer Therapeutics, 2019 Related articles"
+    },
+    {
+      "Authors": "Paulo CM Lyra Jr, Thales C Nepomuceno, Marcele LM de Souza, Géssica F Machado, Mariana F Veloso, Taciane B Henriques, Diandra Z Dos Santos, Iuly G Ribeiro, Roberto S Ribeiro Jr, Leticia BA Rangel, Marcy Richardson, Edwin S Iversen, David Goldgar, Fergus J Couch, Marcelo A Carvalho, Alvaro NA Monteiro",
+      "Publication date": "2021/2",
+      "Journal": "Genetics in Medicine",
+      "Volume": "23",
+      "Issue": "2",
+      "Pages": "306-315",
+      "Publisher": "Nature Publishing Group US",
+      "Description": "Purpose BRCA1 pathogenic variant heterozygotes are at a substantially increased risk for breast and ovarian cancer. The widespread uptake of testing has led to a significant increase in the detection of missense variants in BRCA1 , the vast majority of which are variants of uncertain clinical significance (VUS), posing a challenge to genetic counseling. Here, we harness a wealth of functional data for thousands of variants to aid in variant classification. Methods We have collected, curated, and harmonized functional data for 2701 missense variants representing 24.5% of possible missense variants in BRCA1 . Results were harmonized across studies by converting data into binary categorical variables (functional impact versus no functional impact). Using a panel of reference variants we identified a subset of assays with high sensitivity and specificity (≥80%) and apply the American College of Medical Genetics and …",
+      "Total citations": "Cited by 33 2021 2022 2023 2024 3 10 12 7",
+      "Scholar articles": "Integration of functional assay data results provides strong evidence for classification of hundreds of BRCA1 variants of uncertain significance PCM Lyra Jr, TC Nepomuceno, MLM de Souza… - Genetics in Medicine, 2021 Cited by 33 Related articles All 9 versions"
+    },
+    {
+      "Authors": "Taciane Barbosa Henriques, Diandra Zipinotti Dos Santos, Isabella dos Santos Guimarães, Nayara Gusmão Tessarollo, Paulo Cilas Morais Lyra-Junior, Patricia Mesquita, Diana Pádua, Ana Luisa Amaral, Bruno Cavadas, Luisa Pereira, Ian Victor Silva, Raquel Maria da Silva Graça Almeida, Leticia Batista Azevedo Rangel",
+      "Publication date": "2021/5/26",
+      "Journal": "Aging (albany NY)",
+      "Volume": "13",
+      "Issue": "10",
+      "Pages": "13405",
+      "Description": "cDNA microarray data conducted by our group revealed overexpression of CXCL2 and CXCL8 in ovarian cancer (OC) microenvironment. Herein, we have proven that the chemokine receptor, CXCR2, is a pivotal molecule in re-sensitizing OC to cisplatin, and its inhibition decreases cell proliferation, viability, tumor size in cisplatin-resistant cells, as well as reversed the overexpression of mesenchymal epithelium transition markers. Altogether, our study indicates a central effect of CXCR2 in preventing tumor progression, due to acquisition of cisplatin chemoresistant phenotype by tumor cells, and patients’ high lethality rate. We found that the overexpression of CXCR2 by OC cells is persistent and anomalously confined to the cellular nuclei, thus pointing to an urge in developing highly lipophilic molecules that promptly permeate cells, bind to and inhibit nuclear CXCR2 to fight OC, instead of relying on the high-cost …",
+      "Total citations": "Cited by 16 2021 2022 2023 2024 2025 3 7 2 2 2",
+      "Scholar articles": "Inhibition of CXCR2 plays a pivotal role in re-sensitizing ovarian cancer to cisplatin treatment TB Henriques, DZ Dos Santos, I dos Santos Guimarães… - Aging (albany NY), 2021 Cited by 16 Related articles All 6 versions"
+    },
+    {
+      "Authors": "Gustavo Mendoza-Fandiño, Paulo Cilas M Lyra Jr, Thales C Nepomuceno, Carly M Harro, Nicholas T Woods, Xueli Li, Leticia B Rangel, Marcelo A Carvalho, Fergus J Couch, Alvaro NA Monteiro",
+      "Publication date": "2022/4",
+      "Journal": "European Journal of Human Genetics",
+      "Volume": "30",
+      "Issue": "4",
+      "Pages": "465-473",
+      "Publisher": "Springer International Publishing",
+      "Description": "Genome wide-association studies (GWAS) have established over 400 breast cancer risk loci defined by common single nucleotide polymorphisms (SNPs), including several associated with estrogen-receptor (ER)-negative disease. Most of these loci have not been studied systematically and the mechanistic underpinnings of risk are largely unknown. Here we explored the landscape of genomic features at an ER-negative breast cancer susceptibility locus at chromosome 2p23.2 and assessed the functionality of 81 SNPs with strong evidence of association from previous fine mapping. Five candidate regulatory regions containing risk-associated SNPs were identified. Regulatory Region 1 in the first intron of WDR43 contains SNP rs4407214, which showed allele-specific interaction with the transcription factor USF1 in in vitro assays. CRISPR-mediated disruption of Regulatory Region 1 led to expression changes in …",
+      "Total citations": "Cited by 8 2022 2023 2024 5 2 1",
+      "Scholar articles": "Two distinct mechanisms underlie estrogen-receptor-negative breast cancer susceptibility at the 2p23. 2 locus G Mendoza-Fandiño, PCM Lyra Jr, TC Nepomuceno… - European Journal of Human Genetics, 2022 Cited by 8 Related articles All 7 versions"
+    },
+    {
+      "Authors": "Peter A Fasching, Duan Liu, Steve Scully, James N Ingle, Paulo C Lyra Jr, Brigitte Rack, Alexander Hein, Arif B Ekici, Andre Reis, Andreas Schneeweiss, Hans Tesch, Tanja N Fehm, Georg Heinrich, Matthias W Beckmann, Matthias Ruebner, Hanna Huebner, Diether Lambrechts, Ebony Madden, Jess Shen, Jane Romm, Kim Doheny, Gregory D Jenkins, Erin E Carlson, Liang Li, Brooke L Fridley, Julie M Cunningham, Wolfgang Janni, Alvaro NA Monteiro, Daniel J Schaid, Lothar Häberle, Richard M Weinshilboum, Liewei Wang",
+      "Publication date": "2022/8/2",
+      "Journal": "Clinical Cancer Research",
+      "Volume": "28",
+      "Issue": "15",
+      "Pages": "3342-3355",
+      "Publisher": "American Association for Cancer Research",
+      "Description": "Purpose To identify molecular predictors of grade 3/4 neutropenic or leukopenic events (NLE) after chemotherapy using a genome-wide association study (GWAS). Experimental Design A GWAS was performed on patients in the phase III chemotherapy study SUCCESS-A ( n = 3,322). Genotyping was done using the Illumina HumanOmniExpress-12v1 array. Findings were functionally validated with cell culture models and the genotypes and gene expression of possible causative genes were correlated with clinical treatment response and prognostic outcomes. Results One locus on chromosome 16 (rs4784750; NLRC5; P = 1.56E-8) and another locus on chromosome 13 (rs16972207; TNFSF13B; P = 3.42E-8) were identified at a genome-wide significance level. Functional validation revealed that expression of these two genes is altered by genotype …",
+      "Total citations": "Cited by 7 2022 2023 2024 2025 1 2 3 1",
+      "Scholar articles": "Identification of two genetic loci associated with leukopenia after chemotherapy in patients with breast cancer PA Fasching, D Liu, S Scully, JN Ingle, PC Lyra Jr… - Clinical Cancer Research, 2022 Cited by 7 Related articles All 11 versions"
+    },
+    {
+      "Authors": "Huaizhi Huang, Chunling Hu, Jie Na, Steven N Hart, Rohan David Gnanaolivu, Mohamed Abozaid, Tara Rao, Yohannes A Tecleab, Tina Pesaran, Paulo Cilas Morais Lyra, Rachid Karam, Siddhartha Yadav, Susan M Domchek, Miguel de la Hoya, Mark Robson, Miika Mehine, Chaitanya Bandlamudi, Diana Mandelker, Alvaro NA Monteiro, Nicholas Boddicker, Wenan Chen, Marcy E Richardson, Fergus J Couch",
+      "Publication date": "2023/12/15",
+      "Journal": "bioRxiv",
+      "Pages": "2023.12. 14.571597",
+      "Publisher": "Cold Spring Harbor Laboratory",
+      "Description": "Germline BRCA2 loss-of function (LOF) variants identified by clinical genetic testing predispose to breast, ovarian, prostate and pancreatic cancer. However, variants of uncertain significance (VUS) (n>4000) limit the clinical use of testing results. Thus, there is an urgent need for functional characterization and clinical classification of all BRCA2 variants. Here we report on comprehensive saturation genome editing-based functional characterization of 97% of all possible single nucleotide variants (SNVs) in the BRCA2 DNA Binding Domain hotspot for pathogenic missense variants that is encoded by exons 15 to 26. The assay was based on deep sequence analysis of surviving endogenously targeted haploid cells. A total of 7013 SNVs were characterized as functionally abnormal (n=955), intermediate/uncertain, or functionally normal (n=5224) based on 95% agreement with ClinVar known pathogenic and benign standards. Results were validated relative to batches of nonsense and synonymous variants and variants evaluated using a homology directed repair (HDR) functional assay. Breast cancer case-control association studies showed that pooled SNVs encoding functionally abnormal missense variants were associated with increased risk of breast cancer (odds ratio (OR) 3.89, 95%CI: 2.77-5.51). In addition, 86% of tumors associated with abnormal missense SNVs displayed loss of heterozygosity (LOH), whereas 26% of tumors with normal variants had LOH. The functional data were added to other sources of information in a ClinGen/ACMG/AMP-like model and 700 functionally abnormal SNVs, including 220 missense SNVs, were classified …",
+      "Total citations": "Cited by 3 2024 2025 2 1",
+      "Scholar articles": "Saturation genome editing-based functional evaluation and clinical classification of BRCA2 single nucleotide variants H Huang, C Hu, J Na, SN Hart, RD Gnanaolivu… - bioRxiv, 2023 Cited by 3 Related articles All 6 versions"
+    },
+    {
+      "Authors": "Huaizhi Huang, Chunling Hu, Jie Na, Mohamed Abozaid, Amik Munankarmy, Tara Rao, Carolyn A Dunn Lumby, Paulo Cilas Morais Lyra, Ronan E Couch, Benjamin R Persons, Eric C Polley, Rachid Karam, Tina Pesaran, Siddhartha Yadav, Alvaro NA Monteiro, Nicholas J Boddicker, Susan M Domchek, Marcy E Richardson, Fergus J Couch",
+      "Publication date": "2024/2/1",
+      "Journal": "Cancer Research",
+      "Volume": "84",
+      "Issue": "3_Supplement_1",
+      "Pages": "PR09-PR09",
+      "Publisher": "The American Association for Cancer Research",
+      "Description": "Many germline BRCA2 missense variants of uncertain significance (VUS) remain to be clinically classified as pathogenic or benign. Here we identify 70 missense VUS in the DNA binding domain (DBD) of BRCA2 that partially reduced homologous recombination DNA repair activity of the protein in a homology directed DNA repair cell-based assay. CRISPR/cas9-based knockin of these variants reduced cell survival of haploid cells and conferred increased sensitivity to the PARP inhibitor Olaparib. Sequence alignment analysis found that the variants were highly conserved across species from pufferfish to human. Structural analysis showed that these variants are located predominantly in unstructured regions of the DBD. Case-control association studies showed that the hypomorphic variants conferred moderate risks of breast (OR:2.85; 95%CI:1.43-5.88) and ovarian cancer (OR:3.37; 95%CI:1.30-8.54) that were …",
+      "Scholar articles": "Abstract PR09: Functional and clinical characterization of hypomorphic missense variants in the BRCA2 cancer predisposition gene H Huang, C Hu, J Na, M Abozaid, A Munankarmy… - Cancer Research, 2024 Related articles"
+    },
+    {
+      "Authors": "Chunling Hu, Huaizhi Huang, Jie Na, Carolyn Lumby, Mohamed Abozaid, Megan A Holdren, Tara J Rao, Rachid Karam, Tina Pesaran, Jamie D Weyandt, Christen M Csuy, Christina A Seelaus, Colin C Young, Kelly Fulk, Zahra Heidari, Paulo Cilas Morais Lyra, Ronan E Couch, Benjamin Persons, Eric C Polley, Rohan D Gnanaolivu, Nicholas J Boddicker, Alvaro NA Monteiro, Siddhartha Yadav, Susan M Domchek, Marcy E Richardson, Fergus J Couch",
+      "Publication date": "2024/3/7",
+      "Journal": "The American Journal of Human Genetics",
+      "Volume": "111",
+      "Issue": "3",
+      "Pages": "584-593",
+      "Publisher": "Elsevier",
+      "Description": "Variants of uncertain significance (VUSs) in BRCA2 are a common result of hereditary cancer genetic testing. While more than 4,000 unique VUSs, comprised of missense or intronic variants, have been identified in BRCA2 , the few missense variants now classified clinically as pathogenic or likely pathogenic are predominantly located in the region encoding the C-terminal DNA binding domain (DBD). We report on functional evaluation of the influence of 462 BRCA2 missense variants affecting the DBD on DNA repair activity of BRCA2 using a homology-directed DNA double-strand break repair assay. Of these, 137 were functionally abnormal, 313 were functionally normal, and 12 demonstrated intermediate function. Comparisons with other functional studies of BRCA2 missense variants yielded strong correlations. Sequence-based in silico prediction models had high sensitivity, but limited specificity, relative to the …",
+      "Total citations": "Cited by 6 2024 2025 2 4",
+      "Scholar articles": "Functional analysis and clinical classification of 462 germline BRCA2 missense variants affecting the DNA binding domain C Hu, H Huang, J Na, C Lumby, M Abozaid… - The American Journal of Human Genetics, 2024 Cited by 6 Related articles All 7 versions"
+    },
+    {
+      "Authors": "Paulo Lyra, Lucas Dalcolmo, Michael Parsons, Thales Nepomuceno, Samuel Brito, Nam Phuong N Nguyen, Geise de Oliveira, Joao Paulo da Siva, Laura Caleca, Tanisha Taneja, Chunling Hu, Marcy Richardson, Maria Rossing, Aditi Hazra, Alexandra Martins, Sandrine Caputo, Gael A Millot, Joanne NgeowYuen Yie, Marcelo A Carvalho, Melissa Cline, Paolo Radice, Rachael Carlsen, Romy Mesman, Valentina Zampiga, Rehan Villani, Vijay Josef, Shyam Sharan, Kyriaki Michailidou, Amanda B Spurdle, Fergus Couch, Maaike PG Vreeswijk, Alvaro N Monteiro",
+      "Publication date": "2024/3/22",
+      "Journal": "Cancer Research",
+      "Volume": "84",
+      "Issue": "6_Supplement",
+      "Pages": "7325-7325",
+      "Publisher": "The American Association for Cancer Research",
+      "Description": "The success of precision cancer prevention and treatment hinges on accurate discrimination between benign and pathogenic germline alleles in cancer susceptibility genes. Variants of uncertain clinical significance (VUS) present a challenge for cancer risk assessment and functional data will be essential to resolve many VUS. To address this, we developed a cloud-based environment to collate, curate, integrate and analyze all published functional data related to BRCA1 and BRCA2 missense VUS. Then, functional evidence criteria for pathogenicity were determined for each assay using the American College of Medical Genetics and Genomics/Association for Molecular Pathology (ACMG/AMP) classification guidelines and ClinGen criteria. Our approach involved retrieving published articles reporting one or more functional assays of BRCA1/2 missense variants reporting variant impact on various biochemical …",
+      "Total citations": "Cited by 1 2024 1",
+      "Scholar articles": "Integration of functional data to classify BRCA1/2 missense variants: An ENIGMA project P Lyra, L Dalcolmo, M Parsons, T Nepomuceno, S Brito… - Cancer Research, 2024 Cited by 1 Related articles"
+    },
+    {
+      "Authors": "Thales C Nepomuceno, Paulo Lyra, Jianbin Zhu, Fanchao Yi, Rachael H Martin, Daniel Lupu, Luke Peterson, Lauren C Peres, Anna Berry, Edwin S Iversen, Fergus J Couch, Qianxing Mo, Alvaro N Monteiro",
+      "Publication date": "2024/5",
+      "Journal": "JCO Clinical Cancer Informatics",
+      "Volume": "8",
+      "Pages": "e2300251",
+      "Publisher": "Wolters Kluwer Health",
+      "Description": "PURPOSE The emergence of large real-world clinical databases and tools to mine electronic medical records has allowed for an unprecedented look at large data sets with clinical and epidemiologic correlates. In clinical cancer genetics, real-world databases allow for the investigation of prevalence and effectiveness of prevention strategies and targeted treatments and for the identification of barriers to better outcomes. However, real-world data sets have inherent biases and problems (eg, selection bias, incomplete data, measurement error) that may hamper adequate analysis and affect statistical power. METHODS Here, we leverage a real-world clinical data set from a large health network for patients with breast cancer tested for variants in BRCA1 and BRCA2 (N = 12,423). We conducted data cleaning and harmonization, cross-referenced with publicly available databases, performed variant reassessment and …",
+      "Total citations": "Cited by 1 2025 1",
+      "Scholar articles": "Assessment of BRCA1 and BRCA2 Germline Variant Data From Patients With Breast Cancer in a Real-World Data Registry TC Nepomuceno, P Lyra, J Zhu, F Yi, RH Martin… - JCO Clinical Cancer Informatics, 2024 Cited by 1 Related articles All 5 versions"
+    },
+    {
+      "Authors": "Huaizhi Huang, Chunling Hu, Jie Na, Steven N Hart, Rohan David Gnanaolivu, Mohamed Abozaid, Tara Rao, Yohannes A Tecleab, Tina Pesaran, Paulo Cilas Morais Lyra, Rachid Karam, Siddhartha Yadav, Katherine L Nathanson, Susan M Domchek, Miguel de la Hoya, Mark Robson, Miika Mehine, Chaitanya Bandlamudi, Diana Mandelker, Alvaro NA Monteiro, Edwin S Iversen, Nicholas Boddicker, Wenan Chen, Marcy E Richardson, Fergus J Couch",
+      "Publication date": "2025/1/8",
+      "Journal": "Nature",
+      "Pages": "1-10",
+      "Publisher": "Nature Publishing Group UK",
+      "Description": "Germline BRCA2 loss-of function variants, which can be identified through clinical genetic testing, predispose to several cancers , , , – . However, variants of uncertain significance limit the clinical utility of test results. Thus, there is a need for functional characterization and clinical classification of all BRCA2 variants to facilitate the clinical management of individuals with these variants. Here we analysed all possible single-nucleotide variants from exons 15 to 26 that encode the BRCA2 DNA-binding domain hotspot for pathogenic missense variants. To enable this, we used saturation genome editing CRISPR–Cas9-based knock-in endogenous targeting of human haploid HAP1 cells. The assay was calibrated relative to nonsense and silent variants and was validated using pathogenic and benign standards from ClinVar and results from a homology-directed repair functional assay. Variants (6,959 out of 6,960 …",
+      "Total citations": "Cited by 6 2025 6",
+      "Scholar articles": "Functional evaluation and clinical classification of BRCA2 variants H Huang, C Hu, J Na, SN Hart, RD Gnanaolivu… - Nature, 2025 Cited by 6 Related articles All 7 versions"
+    },
+    {
+      "Authors": "Nayara Gusmão Tessarollo, Isabella dos Santos Guimarães, Diandra Zipinotti dos Santos, Taciane Barbosa Henriques, Paulo Cilas Morais Lyra-Junior, Josiany Carlos de Souza, Tatiana Massariol Pimenta, Bárbara da Silva Martins, Solenny Maria Silva Butzene, José Matheus Simões Padilha, Leide Laura Figueiredo Maciel, João Carlos de Aquino Almeida, Ian Victor Silva, Leticia Batista Azevedo Rangel",
+      "Publication date": "2025/6/4",
+      "Journal": "Frontiers in Pharmacology",
+      "Volume": "16",
+      "Pages": "1566330",
+      "Publisher": "Frontiers Media SA",
+      "Description": "Introduction Chemoresistance and disease relapses in epithelial ovarian cancer (EOC) highlight the need for novel therapeutic strategies. Here, we investigated phosphodiesterase 7A (PDE7A) as a potential target in ovarian cancer treatment. Methods Gene expression was performed by RNA sequencing data comparing high-grade serous ovarian carcinoma (HGSOC) and fallopian tube samples. The PDE7 inhibitor BRL 50481, alone or combined with paclitaxel (PTX), was tested in drug-sensitive A2780 and multi-resistant OVCAR3 cells by Diphenyltetrazolium bromide (MTT) assay. To validate data from the high throughput RNA-sequencing assays, RT-qPCR and Immunoblotting were performed. Cytokine expression was analyzed by RT-qPCR and the quantification was obtained by ELISA. Scanning and Transmission Electron Microscopy were also carried out. Results and discussion MTT assays revealed that while BRL 50481 reduced metabolic cellular viability (MCV) in A2780 (IC50 = 200 μM), its combination with PTX decreased MCV in both lines, reducing PTX IC50 by 103- and 625-fold in A2780 and OVCAR3, respectively. PDE7 inhibition suppressed the PI3K/AKT/mTOR pathway, upregulated the pro-apoptotic protein Bcl-2 Associated X-protein (BAX) in A2780, and increased IL-6 expression in OVCAR3. Pretreatment with BRL 50481 followed by PTX downregulated vimentin and octamer-binding transcription factor (OCT4), while inducing morphological changes and mitochondrial cristae alterations. Inhibiting PDE7 can enhance the paclitaxel-induced apoptosis by promoting mitochondrial dysfunction and suppressing survival …",
+      "Scholar articles": "Phosphodiesterase 7: a potential novel therapeutic target in ovarian cancer NG Tessarollo, IS Guimarães, DZ dos Santos… - Frontiers in Pharmacology, 2025 Related articles"
+    },
+    {
+      "Authors": "CM Phelan, KB Kuchenbaecker, JP Tyrer, SP Kar, K Lawrenson, SJ Winham, J Dennis, A Pirie, MJ Riggan, G Chornokur, MA Earp, PC Lyra, JM Lee, S Coetzee, J Beesley, L McGuffog, P Soucy, E Dicks, A Lee, D Barrowdale, J Lecarpentier, G Leslie, CM Aalfs, KKH Aben, M Adams, J Adlard, IL Andrulis, H Anton-Culver, N Antonenkova, G Aravantinos, N Arnold, BK Arun, B Arver, J Azzollini, J Balmaña, SN Banerjee, L Barjhoux, RB Barkardottir, Y Bean, MW Beckmann, A Beeghly-Fadiel, J Benitez, M Bermisheva, MQ Bernardini, MJ Birrer, L Bjorge, A Black, K Blankstein, MJ Blok, C Bodelon, N Bogdanova, A Bojesen, B Bonanni, Bradbury AR Borg Åke, JD Brenton, C Brewer, L Brinton, P Broberg, A Brooks-Wilson, F Bruinsma, J Brunet, B Buecher, R Butzow, SS Buys, T Caldes, MA Caligo, I Campbell, R Cannioto, ME Carney, T Cescon, SB Chan, J Chang-Claude, S Chanock, XQ Chen, YE Chiew, J Chiquette, WK Chung, KBM Claes, T Conner, LS Cook, J Cook, DW Cramer, JM Cunningham, AA D'Aloisio, MB Daly, F Damiola, SD Damirovna, A Dansonka-Mieszkowska, F Dao, R Davidson, A DeFazio, C Delnatte, KF Doheny, O Diez, YC Ding, JA Doherty, SM Domchek, CM Dorfling, T Dörk, L Dossus",
+      "Journal": "Identification of",
+      "Volume": "12",
+      "Pages": "680-691",
+      "Total citations": "Cited by 10 2020 2021 2022 2023 2 3 3 2",
+      "Scholar articles": "EMBRACE Study, GEMO Study Collaborators, HEBON Study, KConFab Investigators, OPAL study group CM Phelan, KB Kuchenbaecker, JP Tyrer, SP Kar… - Identification of Cited by 10 Related articles"
+    }
+  ],
+  "others": [
+    {
+      "Authors": "Isabella dos Santos Guimarães, Renata Dalmaschio Daltoé, Alice Laschuk Herlinger, Klesia Pirola Madeira, Taciane Ladislau, Iuri Cordeiro Valadão, Paulo Cilas Morais Lyra Junior, Sarah Fernandes Teixeira, Gustavo Modesto Amorim, Diandra Zipinotti dos Santos, Karina Rangel Demuth, Leticia Batista Azevedo Rangel",
+      "Publication date": "2013/5/9",
+      "Book": "Cancer treatment-conventional and innovative approaches",
+      "Publisher": "IntechOpen",
+      "Description": "The era of cancer chemotherapy began in the 1940s with the first use of nitrogen mustards and antifolate drugs. The practice of cancer medicine has changed dramatically allowing treatments for many previously fatal cancers. Furthermore, the adjuvant chemotherapy and hormonal therapy can extend life and prevent disease recurrence following surgical resection of diferent types of malignancies. Concurrently with the new discoveries of chemotherapeutic agents, the remarkable scientific and technological development allowed understanding of cell biology of human cancer cells and thereby the emergence of targeted therapy. Although the targeted therapy drugs have had outstanding successes in selected types of cancer, new therapies are not likely to replace cytotoxic agents in the foreseeable future. Rather, clinical trials have demonstrated potent synergy between targeted molecules and traditional cytotoxic agents.",
+      "Total citations": "Cited by 17 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 1 1 2 1 2 4 1 2 2 1",
+      "Scholar articles": "Conventional cancer treatment I dos Santos Guimarães, RD Daltoé, AL Herlinger… - Cancer treatment-conventional and innovative …, 2013 Cited by 17 Related articles All 5 versions"
+    },
+    {
+      "Authors": "Taciane Ladislau, Klesia P Madeira, Renata D Daltoé, Isabella S Guimarães, Sarah F Teixeira, Paulo CM Lyra-Júnior, Iuri C Valadão, Leticia BA Rangel, Alice L Herlinger",
+      "Publication date": "2013/5/9",
+      "Book": "Cancer Treatment-Conventional and Innovative Approaches",
+      "Publisher": "IntechOpen",
+      "Description": "Over the past decade, cancer therapy has changed drastically by the introduction of the tar‐get therapies, which focus on unique molecules present in tumors or protein whose expres‐sion or function is enriched within the neoplastic tissue; the so called molecular targets. In this context, target therapies may include monoclonal antibodies, drugs or small inhibitors capable of inhibiting specific molecules, such as kinases. The major targets in cancer therapy are pathways directing cell growth, proliferation and survival, as well as, those interfering on tumors microenvironmental aspects, such as angiogenesis. On the other hand, an emerg‐ing field on target therapy is the use of epigenetic drugs, which aim the restoration of the normal epigenetic landscape in cancer cells by targeting the epigenetic machinery of cells. Despite some major side effects associated to some target drugs, these therapies are well tol‐erated by patients. Moreover, it bears the possibility of developing personal therapies to each individual patient, which is considered the optimum choice in oncology.",
+      "Total citations": "Cited by 2 2014 2015 2016 2017 2018 1 1",
+      "Scholar articles": "Target Cancer Therapy T Ladislau, KP Madeira, RD Daltoé, IS Guimarães… - Cancer Treatment-Conventional and Innovative …, 2013 Cited by 2 Related articles All 4 versions"
+    },
+    {
+      "Authors": "Paulo CM Lyra‐Junior, Nayara G Tessarollo, Isabella S Guimarães, Taciane B Henriques, Diandra Z dos Santos, Marcele LM de Souza, Victor Hugo M Marques, Laura FRL de Oliveira, Krislayne V Siqueira, Ian V Silva, Leticia BA Rangel, Alan T Branco",
+      "Publication date": "2017/4/5",
+      "Book": "Breast Cancer-From Biology to Medicine",
+      "Publisher": "IntechOpen",
+      "Description": "Breast cancer is the most diagnosed cancer in women, and the second cause of cancerrelated deaths among women worldwide. It is expected that more than 240,000 new cases and 40,450 deaths related to the disease will occur in 2016. It is well known that inherited genetic variants are drivers for breast cancer development. There are many mechanisms through which germline genetic variation affects prognosis, such as BRCA1 and BRCA2 genes, which account for approximately 20% of the increased hereditary risks. Therefore, it is evident that the genetic pathways that underlie cancer development are complex in which networks of multiple alleles confer disease susceptibility and risks. Global analyses through genome-wide association studies (GWAS) have revealed several loci across the genome are associated with the breast cancer. This chapter compiles all breast GWAS released since 2007, year of the first article published in this area, and discuss the future directions of this field. Currently, hundreds of genetic markers are linked to breast cancer, and understanding the underlying mechanisms of these variants might lead to the discover of biomarkers and targets for therapy in patients.",
+      "Total citations": "Cited by 5 2018 2019 2020 1 3 1",
+      "Scholar articles": "GWAS in breast cancer PCM Lyra‐Junior, NG Tessarollo, IS Guimarães… - Breast Cancer-From Biology to Medicine, 2017 Cited by 5 Related articles All 3 versions"
+    },
+    {
+      "Authors": "Paulo Cilas Morais Lyra, Letícia B Rangel, Alvaro NA Monteiro",
+      "Publication date": "2020/3",
+      "Source": "Current Epidemiology Reports",
+      "Volume": "7",
+      "Pages": "49-57",
+      "Publisher": "Springer International Publishing",
+      "Description": "Purpose of the Review To date, genome-wide association studies (GWASs) have identified 39 genomic loci associated with risk of epithelial ovarian cancer at genome-wide significance level ( p ≤ 5 × 10 −8 ) and 13 additional loci using less strict thresholds. Follow-up functional dissection of these loci to uncover the underlining mechanisms driving cancer susceptibility has been challenging. Recent Findings In a manner similar to how post-linkage studies led the characterization of then poorly understood cellular pathways, functional analysis of GWAS loci is revealing new mechanisms of ovarian cancer. Summary Here, we review recent methodological and conceptual progress relevant to the understanding of how common genetic variation influences the risk of epithelial ovarian cancer.",
+      "Total citations": "Cited by 10 2021 2022 2023 2024 2025 1 4 4 1",
+      "Scholar articles": "Functional landscape of common variants associated with susceptibility to epithelial ovarian cancer PCM Lyra, LB Rangel, ANA Monteiro - Current Epidemiology Reports, 2020 Cited by 10 Related articles"
+    },
+    {
+      "Authors": "Letícia Rangel, Ian Victor Silva, Paulo Cilas Morais Lyra Junior, Marcele Mattos De Souza, Diandra Zipinotti Dos Santos, Hephzibah Kirubamani",
+      "Publication date": "2020/7/22",
+      "Publisher": "BoD–Books on Demand",
+      "Description": "This edited volume, Hormone Therapy and Replacement in Cancer and Aging-related Diseases, is a collection of reviewed and relevant research chapters, offering a comprehensive overview of recent developments in the field of hormone replacement therapy. The book comprises single chapters authored by various researchers and edited by experts active in the hormone replacement therapy research area. All chapters are complete in themselves but united under a common research study topic. This publication aims at providing a thorough overview of the latest research efforts by international authors on hormone replacement therapy, and opens new possible research paths for further novel developments.",
+      "Scholar articles": "Hormone Therapy and Replacement in Cancer and Aging-related Diseases L Rangel, IV Silva, PCML Junior, MM De Souza… - 2020 Related articles All 2 versions"
+    },
+    {
+      "Authors": "Diandra Zipinotti dos Santos, Josiany Carlos de Souza, Tatiana Massariol Pimenta, Bárbara da Silva Martins, Roberto Silva Ribeiro Junior, Solenny Maria Silva Butzene, Nayara Gusmão Tessarolo, Paulo Morais Lyra Cilas Jr, Ian Victor Silva, Leticia BA Rangel",
+      "Publication date": "2023/6/27",
+      "Source": "Cell Communication and Signaling",
+      "Volume": "21",
+      "Issue": "1",
+      "Pages": "161",
+      "Publisher": "BioMed Central",
+      "Description": "Background Breast cancer (BC) is the second most frequent type of cancer in the world and most common among women, configuring a major challenge to global health. BC is a complex and heterogeneous disease that can be subdivided into distinct tumor types based on the expression of molecular markers predicting patient outcomes and response to therapy. A growing number of studies have tried to expand the known markers by investigating the association of altered lipid metabolism with BC immune escape, progression, and metastasis. In this review, we describe the metabolic peculiarities of each BC subtype, understanding how this influences its aggressiveness and identifying whether these intrinsic vulnerabilities of each subtype can play a role in therapeutic management and may affect immune system cells in the tumor microenvironment. Conclusion The evidence suggests so far that when changes …",
+      "Total citations": "Cited by 75 2023 2024 2025 5 39 31",
+      "Scholar articles": "The impact of lipid metabolism on breast cancer: a review about its role in tumorigenesis and immune escape D Zipinotti dos Santos, JC de Souza, TM Pimenta… - Cell Communication and Signaling, 2023 Cited by 75 Related articles All 12 versions"
+    },
+    {
+      "Authors": "Fergus Couch, Huaizhi Huang, Chunling Hu, Jie Na, Steven Hart, Rohan Gnanaolivu, Mohamed Abozaid, Tara Rao, Yohannes Tecleab, Tina Pesaran, Paulo Lyra, Rachid Karam, Siddhartha Yadav, Susan Domchek, Miguel de la Hoya, Mark Robson, Miika Mehine, Chaitanya Bandlamudi, Diana Mandelker, Alvaro Monteiro, Nicholas Boddicker, Wenan Chen, Marcy Richardson",
+      "Publication date": "2023/12/19",
+      "Description": "Germline BRCA2 loss-of function (LOF) variants identified by clinical genetic testing predispose to breast, ovarian, prostate and pancreatic cancer. However, variants of uncertain significance (VUS)(n> 4000) limit the clinical use of testing results. Thus, there is an urgent need for functional characterization and clinical classification of all BRCA2 variants. Here we report on comprehensive saturation genome editing-based functional characterization of 97% of all possible single nucleotide variants (SNVs) in the BRCA2 DNA Binding Domain hotspot for pathogenic missense variants that is encoded by exons 15 to 26. The assay was based on deep sequence analysis of surviving endogenously targeted haploid cells. A total of 7013 SNVs were characterized as functionally abnormal (n= 955), intermediate/uncertain, or functionally normal (n= 5224) based on 95% agreement with ClinVar known pathogenic and benign standards. Results were validated relative to batches of nonsense and synonymous variants and variants evaluated using a homology directed repair (HDR) functional assay. Breast cancer case-control association studies showed that pooled SNVs encoding functionally abnormal missense variants were associated with increased risks of breast and ovarian cancer (odds ratio (OR) 3.89, 95% CI: 2.77-5.51). In addition, 86% of tumors associated with abnormal missense SNVs displayed loss of heterozygosity (LOH), whereas 26% of tumors with normal variants had LOH. The functional data were added to other sources of information in a ClinGen/ACMG/AMP-like model and 700 functionally abnormal SNVs, including 220 missense SNVs …",
+      "Scholar articles": "Saturation genome editing-based functional evaluation and clinical classification of BRCA2 single nucleotide variants F Couch, H Huang, C Hu, J Na, S Hart, R Gnanaolivu… - 2023 Related articles All 5 versions"
+    },
+    {
+      "Authors": "Paulo Cilas Morais Lyra Junior, Junhao Qiu, Jeremy Goecks",
+      "Publication date": "2024/12/11",
+      "Publisher": "Galaxy Training Network",
+      "Description": "Objectives: Execute a Ludwig experiment. Evaluate the image classifier model. Compare different configurations to improve model performance. Requirements:",
+      "Scholar articles": "Train and Test a Deep learning image classifier with Galaxy-Ludwig PCML Junior, J Qiu, J Goecks - 2024 Related articles"
+    },
+    {
+      "Authors": "Paulo Cilas Morais Lyra Junior, Junhao Qiu, Jeremy Goecks",
+      "Publication date": "2025/5/8",
+      "Publisher": "Galaxy Training Network",
+      "Description": "Objectives: Use a large dataset of immune checkpoint blockade (ICB)-treated and non-ICB-treated patients across 18 solid tumor types, encompassing a wide range of clinical, pathologic and genomic features to build a Machine Learning Model.",
+      "Scholar articles": "Building the LORIS LLR6 PanCancer Model Using PyCaret PCML Junior, J Qiu, J Goecks - 2025 Related articles"
+    }
+  ]
+}
