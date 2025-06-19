@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from datetime import datetime
-
+from time import sleep
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -29,6 +29,7 @@ def parse_date(date_str):
 def get_citation_ids(user_id):
     url = f"{BASE_URL}/citations?user={user_id}&hl=en&cstart=1&pagesize=1000"
     response = requests.get(url, headers=HEADERS)
+    sleep(5)
     soup = BeautifulSoup(response.text, "html.parser")
     citation_links = soup.find_all("a", class_="gsc_a_at")
     citation_ids = [
@@ -40,6 +41,7 @@ def get_citation_ids(user_id):
 def parse_citation(user_id, citation_id):
     url = f"{BASE_URL}/citations?view_op=view_citation&hl=en&user={user_id}&cstart=1&pagesize=1000&citation_for_view={citation_id}"
     response = requests.get(url, headers=HEADERS)
+    sleep(5)
     soup = BeautifulSoup(response.text, "html.parser")
 
     table = soup.find("div", id="gsc_oci_table")

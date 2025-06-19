@@ -1,145 +1,795 @@
 {
   "Journal": [
     {
-      "Title": "Learning users' interests by unobtrusively observing their normal behavior",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:u5HHmVD_uO8C",
-      "Authors": "J Goecks, J Shavlik",
-      "Journal": "Proceedings of the 5th international conference on Intelligent user …, 2000",
-      "Publication date": "2000"
+      "Title": "Ongoing replication stress tolerance and clonal T cell responses distinguish liver and lung recurrence and outcomes in pancreatic cancer",
+      "Authors": "JM Link, JR Eng, C Pelz, K MacPherson-Hawthorne, PJ Worth, ...",
+      "Journal": "Nature Cancer, 1-22, 2025",
+      "Publication date": "2025",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:RMgMIBzvq-4C",
+      "Citation ID": "hWjExXQAAAAJ:RMgMIBzvq-4C"
     },
     {
-      "Title": "Augmenting shared personal calendars",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:9yKSN-GCB0IC",
-      "Authors": "J Tullio, J Goecks, ED Mynatt, DH Nguyen",
-      "Journal": "Proceedings of the 15th annual ACM symposium on User interface software and …, 2002",
-      "Publication date": "2002"
+      "Title": "Imputing single-cell protein abundance in multiplex tissue imaging",
+      "Authors": "R Kirchgaessner, C Watson, A Creason, K Keutler, J Goecks",
+      "Journal": "Nature Communications 16 (1), 1-14, 2025",
+      "Publication date": "2025",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:rCNdntzdTkkC",
+      "Citation ID": "hWjExXQAAAAJ:rCNdntzdTkkC"
     },
     {
-      "Title": "Leveraging social networks for information sharing",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:2osOgNQ5qMEC",
-      "Authors": "J Goecks, ED Mynatt",
-      "Journal": "Proceedings of the 2004 ACM conference on Computer supported cooperative …, 2004",
-      "Publication date": "2004"
-    },
-    {
-      "Title": "Method and system for usage analyzer that determines user accessed sources, indexes data subsets, and associated metadata, processing implicit queries based on potential …",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:d1gkVwhDpl0C",
-      "Authors": "ST Dumais, EJ Horvitz, EB Cutrell, JJ Cadiz, G Jancke, RK Sarin, ...",
-      "Journal": "US Patent 7,162,473, 2007",
-      "Publication date": "2007"
-    },
-    {
-      "Title": "Charitable technologies: Opportunities for collaborative computing in nonprofit fundraising",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:Y0pCki6q_DkC",
-      "Authors": "J Goecks, A Voida, S Voida, ED Mynatt",
-      "Journal": "Proceedings of the 2008 ACM conference on Computer supported cooperative …, 2008",
-      "Publication date": "2008"
-    },
-    {
-      "Title": "Galaxy: a comprehensive approach for supporting accessible, reproducible, and transparent computational research in the life sciences",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:u-x6o8ySG0sC",
-      "Authors": "J Goecks, A Nekrutenko, J Taylor, TG Team",
-      "Journal": "Genome Biol 11 (8), R86, 2010",
-      "Publication date": "2010"
-    },
-    {
-      "Title": "Integrative approach reveals composition of endoparasitoid wasp venoms",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:kNdYIx-mwKoC",
-      "Authors": "J Goecks, NT Mortimer, JA Mobley, GJ Bowersock, J Taylor, TA Schlenke",
-      "Journal": "PloS one 8 (5), e64125, 2013",
-      "Publication date": "2013"
-    },
-    {
-      "Title": "Parasitoid wasp venom SERCA regulates Drosophila calcium levels and inhibits cellular immunity",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:3fE2CSJIrl8C",
-      "Authors": "NT Mortimer, J Goecks, BZ Kacsoh, JA Mobley, GJ Bowersock, J Taylor, ...",
-      "Journal": "Proceedings of the National Academy of Sciences 110 (23), 9427-9432, 2013",
-      "Publication date": "2013"
-    },
-    {
-      "Title": "The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2018 update",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:ndLnGcHYRF0C",
-      "Authors": "E Afgan, D Baker, B Batut, M Van Den Beek, D Bouvier, M Čech, J Chilton, ...",
-      "Journal": "Nucleic acids research 46 (W1), W537-W544, 2018",
-      "Publication date": "2018"
-    },
-    {
-      "Title": "Practical computational reproducibility in the life sciences",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:nPT8s1NX_-sC",
-      "Authors": "B Grüning, J Chilton, J Köster, R Dale, N Soranzo, M Van Den Beek, ...",
-      "Journal": "Cell systems 6 (6), 631-635, 2018",
-      "Publication date": "2018"
-    },
-    {
-      "Title": "The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2020 update",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:ji7lAbPyDbYC",
-      "Authors": "V Jalili, E Afgan, Q Gu, D Clements, D Blankenberg, J Goecks, J Taylor, ...",
-      "Journal": "Nucleic acids research 48 (W1), W395-W402, 2020",
-      "Publication date": "2020"
-    },
-    {
-      "Title": "How machine learning will transform biomedicine",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:m4fbC6XIj1kC",
-      "Authors": "J Goecks, V Jalili, LM Heiser, JW Gray",
-      "Journal": "Cell 181 (1), 92-101, 2020",
-      "Publication date": "2020"
-    },
-    {
-      "Title": "The human tumor atlas network: charting tumor transitions across space and time at single-cell resolution",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:m92CDrhVnKEC",
-      "Authors": "O Rozenblatt-Rosen, A Regev, P Oberdoerffer, T Nawy, A Hupalowska, ...",
-      "Journal": "Cell 181 (2), 236-249, 2020",
-      "Publication date": "2020"
-    },
-    {
-      "Title": "A harmonized meta-knowledgebase of clinical interpretations of somatic genomic variants in cancer",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:eI34FqJmdUoC",
-      "Authors": "AH Wagner, B Walsh, G Mayfield, D Tamborero, D Sonkin, K Krysiak, ...",
-      "Journal": "Nature genetics 52 (4), 448-457, 2020",
-      "Publication date": "2020"
-    },
-    {
-      "Title": "High-dimensional multiplexed immunohistochemical characterization of immune contexture in human cancers",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:yY3RG6sOEgwC",
-      "Authors": "G Banik, CB Betts, SM Liudahl, S Sivagnanam, R Kawashima, T Cotechini, ...",
-      "Journal": "Methods in enzymology 635, 1-20, 2020",
-      "Publication date": "2020"
-    },
-    {
-      "Title": "Leukocyte heterogeneity in pancreatic ductal adenocarcinoma: phenotypic and spatial features associated with clinical outcome",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:hNSvKAmkeYkC",
-      "Authors": "SM Liudahl, CB Betts, S Sivagnanam, V Morales-Oyarvide, A Da Silva, ...",
-      "Journal": "Cancer discovery 11 (8), 2014-2031, 2021",
-      "Publication date": "2021"
-    },
-    {
-      "Title": "MCMICRO: a scalable, modular image-processing pipeline for multiplexed tissue imaging",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:DXE8ND7PrJAC",
-      "Authors": "D Schapiro, A Sokolov, C Yapp, YA Chen, JL Muhlich, J Hess, ...",
-      "Journal": "Nature methods 19 (3), 311-315, 2022",
-      "Publication date": "2022"
-    },
-    {
-      "Title": "Inverting the model of genomics data sharing with the NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-space",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:M0leSnx2MbUC",
-      "Authors": "MC Schatz, AA Philippakis, E Afgan, E Banks, VJ Carey, RJ Carroll, ...",
-      "Journal": "Cell Genomics 2 (1), 2022",
-      "Publication date": "2022"
+      "Title": "Building the LORIS LLR6 PanCancer Model Using PyCaret",
+      "Authors": "PCML Junior, J Qiu, J Goecks",
+      "Journal": "Galaxy Training Network, 2025",
+      "Publication date": "2025",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:Y0-TYkg6YM4C",
+      "Citation ID": "hWjExXQAAAAJ:Y0-TYkg6YM4C"
     },
     {
       "Title": "The Galaxy platform for accessible, reproducible, and collaborative data analyses: 2024 update",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:7H_jS4BsgvYC",
-      "Authors": "",
       "Journal": "Nucleic acids research 52 (W1), W83-W94, 2024",
-      "Publication date": "2024"
+      "Publication date": "2024",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:7H_jS4BsgvYC",
+      "Citation ID": "hWjExXQAAAAJ:7H_jS4BsgvYC"
+    },
+    {
+      "Title": "Machine learning links T-cell function and spatial localization to neoadjuvant immunotherapy and clinical outcome in pancreatic cancer",
+      "Authors": "KE Blise, S Sivagnanam, CB Betts, K Betre, N Kirchberger, BJ Tate, ...",
+      "Journal": "Cancer immunology research 12 (5), 544-558, 2024",
+      "Publication date": "2024",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:EaFouW7jFu4C",
+      "Citation ID": "hWjExXQAAAAJ:EaFouW7jFu4C"
+    },
+    {
+      "Title": "Train and Test a Deep learning image classifier with Galaxy-Ludwig",
+      "Authors": "PCML Junior, J Qiu, J Goecks",
+      "Journal": "Galaxy Training Network, 2024",
+      "Publication date": "2024",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:tz746QTLzJkC",
+      "Citation ID": "hWjExXQAAAAJ:tz746QTLzJkC"
+    },
+    {
+      "Title": "SyntheVAEiser: augmenting traditional machine learning methods with VAE-based gene expression sample generation for improved cancer subtype predictions",
+      "Authors": "B Karlberg, R Kirchgaessner, J Lee, M Peterkort, L Beckman, J Goecks, ...",
+      "Journal": "Genome biology 25 (1), 1-18, 2024",
+      "Publication date": "2024",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:In6cVmBjs0IC",
+      "Citation ID": "hWjExXQAAAAJ:In6cVmBjs0IC"
+    },
+    {
+      "Title": "Longitudinal and multimodal auditing of tumor adaptation to CDK4/6 inhibitors in HR+ metastatic breast cancers",
+      "Authors": "AL Creason, J Egger, C Watson, S Sivagnanam, K Chin, K MacPherson, ...",
+      "Journal": "bioRxiv, 2023.09. 27.557464, 2023",
+      "Publication date": "2023",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:x21FZCSn4ZoC",
+      "Citation ID": "hWjExXQAAAAJ:x21FZCSn4ZoC"
+    },
+    {
+      "Title": "Longitudinal, multimodal profiling of metastatic ER+ breast cancer on CDK4/6 inhibitor therapy",
+      "Authors": "AL Creason, J Egger, C Watson, S Sivagnanam, JR Lin, K Chin, ...",
+      "Journal": "Cancer Research 83 (7_Supplement), 6618-6618, 2023",
+      "Publication date": "2023",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:6VlyvFCUEfcC",
+      "Citation ID": "hWjExXQAAAAJ:6VlyvFCUEfcC"
+    },
+    {
+      "Title": "MCMICRO: a scalable, modular image-processing pipeline for multiplexed tissue imaging",
+      "Authors": "D Schapiro, A Sokolov, C Yapp, YA Chen, JL Muhlich, J Hess, ...",
+      "Journal": "Nature methods 19 (3), 311-315, 2022",
+      "Publication date": "2022",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:DXE8ND7PrJAC",
+      "Citation ID": "hWjExXQAAAAJ:DXE8ND7PrJAC"
+    },
+    {
+      "Title": "Inverting the model of genomics data sharing with the NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-space",
+      "Authors": "MC Schatz, AA Philippakis, E Afgan, E Banks, VJ Carey, RJ Carroll, ...",
+      "Journal": "Cell Genomics 2 (1), 2022",
+      "Publication date": "2022",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:M0leSnx2MbUC",
+      "Citation ID": "hWjExXQAAAAJ:M0leSnx2MbUC"
+    },
+    {
+      "Title": "An omic and multidimensional spatial atlas from serial biopsies of an evolving metastatic breast cancer",
+      "Authors": "BE Johnson, AL Creason, JM Stommel, JM Keck, S Parmar, CB Betts, ...",
+      "Journal": "Cell Reports Medicine 3 (2), 2022",
+      "Publication date": "2022",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:jlhcAiayVhoC",
+      "Citation ID": "hWjExXQAAAAJ:jlhcAiayVhoC"
+    },
+    {
+      "Title": "Single-cell spatial architectures associated with clinical outcome in head and neck squamous cell carcinoma",
+      "Authors": "KE Blise, S Sivagnanam, GL Banik, LM Coussens, J Goecks",
+      "Journal": "NPJ precision oncology 6 (1), 10, 2022",
+      "Publication date": "2022",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:orDZ08hpP44C",
+      "Citation ID": "hWjExXQAAAAJ:orDZ08hpP44C"
+    },
+    {
+      "Title": "A web-based software resource for interactive analysis of multiplex tissue imaging datasets",
+      "Authors": "A Creason, C Watson, Q Gu, D Persson, L Sargent, YA Chen, JR Lin, ...",
+      "Journal": "BioRxiv, 2022.08. 18.504436, 2022",
+      "Publication date": "2022",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:7Frjd3zlGBUC",
+      "Citation ID": "hWjExXQAAAAJ:7Frjd3zlGBUC"
+    },
+    {
+      "Title": "Ongoing Replication Stress Response and New Clonal T Cell Development Discriminate Between Liver and Lung Recurrence Sites and Patient Outcomes in Pancreatic Ductal Adenocarcinoma",
+      "Authors": "JM Link, C Pelz, PJ Worth, S Owen, D Keith, EM Langer, A Grossblatt-Wait, ...",
+      "Journal": "BioRxiv, 2022.05. 04.490552, 2022",
+      "Publication date": "2022",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:_tF6a-HnqWAC",
+      "Citation ID": "hWjExXQAAAAJ:_tF6a-HnqWAC"
+    },
+    {
+      "Title": "Leukocyte heterogeneity in pancreatic ductal adenocarcinoma: phenotypic and spatial features associated with clinical outcome",
+      "Authors": "SM Liudahl, CB Betts, S Sivagnanam, V Morales-Oyarvide, A Da Silva, ...",
+      "Journal": "Cancer discovery 11 (8), 2014-2031, 2021",
+      "Publication date": "2021",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:hNSvKAmkeYkC",
+      "Citation ID": "hWjExXQAAAAJ:hNSvKAmkeYkC"
+    },
+    {
+      "Title": "Galaxy-ML: An accessible, reproducible, and scalable machine learning toolkit for biomedicine",
+      "Authors": "Q Gu, A Kumar, S Bray, A Creason, A Khanteymoori, V Jalili, B Grüning, ...",
+      "Journal": "PLoS computational biology 17 (6), e1009014, 2021",
+      "Publication date": "2021",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:ymY9cBF3mdcC",
+      "Citation ID": "hWjExXQAAAAJ:ymY9cBF3mdcC"
+    },
+    {
+      "Title": "Multiomics analysis of serial PARP inhibitor treated metastatic TNBC inform on rational combination therapies",
+      "Authors": "M Labrie, A Li, A Creason, C Betts, J Keck, B Johnson, S Sivagnanam, ...",
+      "Journal": "NPJ precision oncology 5 (1), 92, 2021",
+      "Publication date": "2021",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:lg2tdxc6qMwC",
+      "Citation ID": "hWjExXQAAAAJ:lg2tdxc6qMwC"
+    },
+    {
+      "Title": "Single-cell spatial proteomics analyses of head and neck squamous cell carcinoma reveal tumor heterogeneity and immune architectures associated with clinical outcome",
+      "Authors": "KE Blise, S Sivagnanam, GL Banik, LM Coussens, J Goecks",
+      "Journal": "BioRxiv, 2021.03. 10.434649, 2021",
+      "Publication date": "2021",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:n3vGvpFsckwC",
+      "Citation ID": "hWjExXQAAAAJ:n3vGvpFsckwC"
+    },
+    {
+      "Title": "Abstract LB010: SMMART Program: A multi-omics tumor board with a focus on breast cancer",
+      "Authors": "BL Kong, BE Johnson, JM Keck, S Mitri, P Leyshock, JM Stommel, K Siex, ...",
+      "Journal": "Cancer Research 81 (13_Supplement), LB010-LB010, 2021",
+      "Publication date": "2021",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:PQEM9vzQD9gC",
+      "Citation ID": "hWjExXQAAAAJ:PQEM9vzQD9gC"
+    },
+    {
+      "Title": "EGFR-driven profibrotic signals in AKI-to-CKD transition are blocked by TNF inhibition: Opportunities for etanercept treatment",
+      "Authors": "MM Abdelmageed, E Kefaloyianni, A Arthanarisami, FZ Khamissi, ...",
+      "Journal": "bioRxiv, 2021.04. 29.442002, 2021",
+      "Publication date": "2021",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:Vr2j17o0sqMC",
+      "Citation ID": "hWjExXQAAAAJ:Vr2j17o0sqMC"
+    },
+    {
+      "Title": "The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2020 update",
+      "Authors": "V Jalili, E Afgan, Q Gu, D Clements, D Blankenberg, J Goecks, J Taylor, ...",
+      "Journal": "Nucleic acids research 48 (W1), W395-W402, 2020",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:ji7lAbPyDbYC",
+      "Citation ID": "hWjExXQAAAAJ:ji7lAbPyDbYC"
+    },
+    {
+      "Title": "How machine learning will transform biomedicine",
+      "Authors": "J Goecks, V Jalili, LM Heiser, JW Gray",
+      "Journal": "Cell 181 (1), 92-101, 2020",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:m4fbC6XIj1kC",
+      "Citation ID": "hWjExXQAAAAJ:m4fbC6XIj1kC"
+    },
+    {
+      "Title": "The human tumor atlas network: charting tumor transitions across space and time at single-cell resolution",
+      "Authors": "O Rozenblatt-Rosen, A Regev, P Oberdoerffer, T Nawy, A Hupalowska, ...",
+      "Journal": "Cell 181 (2), 236-249, 2020",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:m92CDrhVnKEC",
+      "Citation ID": "hWjExXQAAAAJ:m92CDrhVnKEC"
+    },
+    {
+      "Title": "A harmonized meta-knowledgebase of clinical interpretations of somatic genomic variants in cancer",
+      "Authors": "AH Wagner, B Walsh, G Mayfield, D Tamborero, D Sonkin, K Krysiak, ...",
+      "Journal": "Nature genetics 52 (4), 448-457, 2020",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:eI34FqJmdUoC",
+      "Citation ID": "hWjExXQAAAAJ:eI34FqJmdUoC"
+    },
+    {
+      "Title": "High-dimensional multiplexed immunohistochemical characterization of immune contexture in human cancers",
+      "Authors": "G Banik, CB Betts, SM Liudahl, S Sivagnanam, R Kawashima, T Cotechini, ...",
+      "Journal": "Methods in enzymology 635, 1-20, 2020",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:yY3RG6sOEgwC",
+      "Citation ID": "hWjExXQAAAAJ:yY3RG6sOEgwC"
+    },
+    {
+      "Title": "A long-read RNA-seq approach to identify novel transcripts of very large genes",
+      "Authors": "P Uapinyoying, J Goecks, SM Knoblach, K Panchapakesan, ...",
+      "Journal": "Genome research 30 (6), 885-897, 2020",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:4e5Qn2KL_jwC",
+      "Citation ID": "hWjExXQAAAAJ:4e5Qn2KL_jwC"
+    },
+    {
+      "Title": "Cloud bursting galaxy: federated identity and access management",
+      "Authors": "V Jalili, E Afgan, J Taylor, J Goecks",
+      "Journal": "Bioinformatics 36 (1), 1-9, 2020",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:jmjb1lOE9QIC",
+      "Citation ID": "hWjExXQAAAAJ:jmjb1lOE9QIC"
+    },
+    {
+      "Title": "G-OnRamp: Generating genome browsers to facilitate undergraduate-driven collaborative genome annotation",
+      "Authors": "L Sargent, Y Liu, W Leung, NT Mortimer, D Lopatto, J Goecks, SCR Elgin",
+      "Journal": "PLoS computational biology 16 (6), e1007863, 2020",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:Og1tA8FjbJAC",
+      "Citation ID": "hWjExXQAAAAJ:Og1tA8FjbJAC"
+    },
+    {
+      "Title": "Multi-omics analysis of serial samples from metastatic TNBC patients on PARP inhibitor monotherapy provide insight into rational PARP inhibitor therapy combinations",
+      "Authors": "M Labrie, A Li, A Creason, C Betts, J Keck, B Johnson, S Sivagnanam, ...",
+      "Journal": "medRxiv, 2020.07. 25.20146431, 2020",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:qmtmRrLr0tkC",
+      "Citation ID": "hWjExXQAAAAJ:qmtmRrLr0tkC"
+    },
+    {
+      "Title": "A new long-read RNA-seq analysis approach identifies and quantifies novel transcripts of very large genes",
+      "Authors": "P Uapinyoying, J Goecks, SM Knoblach, K Panchapakesan, ...",
+      "Journal": "bioRxiv, 2020.01. 08.898627, 2020",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:AZju0d2GQJ0C",
+      "Citation ID": "hWjExXQAAAAJ:AZju0d2GQJ0C"
+    },
+    {
+      "Title": "Accessible, Reproducible, and Scalable Machine Learning for Biomedicine",
+      "Authors": "Q Gu, A Kumar, S Bray, A Creason, A Khanteymoori, V Jalili, B Grüning, ...",
+      "Journal": "bioRxiv, 2020.06. 25.172445, 2020",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:sfnaS5RM6jYC",
+      "Citation ID": "hWjExXQAAAAJ:sfnaS5RM6jYC"
+    },
+    {
+      "Title": "PATH-14. GENETIC SUSCEPTIBILITY AND OUTCOMES OF PEDIATRIC, ADOLESCENT AND YOUNG ADULT IDH-MUTANT ASTROCYTOMAS",
+      "Authors": "M Bornhorst, L Nobre, M Zapotocky, H Barseghyan, J Goecks, D Boue, ...",
+      "Journal": "Neuro-oncology 22 (Supplement_3), iii427-iii427, 2020",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:1r-w4gtu6w8C",
+      "Citation ID": "hWjExXQAAAAJ:1r-w4gtu6w8C"
+    },
+    {
+      "Title": "Adding software to package management systems can increase their citation by 280%",
+      "Authors": "V Jalili, D Clements, B Grüning, D Blankenberg, J Goecks",
+      "Journal": "bioRxiv, 2020.11. 16.385211, 2020",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:R-LXmdHK_14C",
+      "Citation ID": "hWjExXQAAAAJ:R-LXmdHK_14C"
+    },
+    {
+      "Title": "39 Spatial single-cell quantitative analyses of human head and neck squamous cell carcinomas",
+      "Authors": "K Blise, S Sivagnanam, L Coussens, J Goecks",
+      "Journal": "Journal for ImmunoTherapy of Cancer 8 (Suppl 3), 2020",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:4Yq6kJLCcecC",
+      "Citation ID": "hWjExXQAAAAJ:4Yq6kJLCcecC"
+    },
+    {
+      "Title": "Innate αβ T cells mediate antitumor immunity by orchestrating immunogenic macrophage programming",
+      "Authors": "M Hundeyin, E Kurz, A Mishra, JAK Rossi, SM Liudahl, KR Leis, ...",
+      "Journal": "Cancer discovery 9 (9), 1288-1305, 2019",
+      "Publication date": "2019",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:wSy_KLzO7YEC",
+      "Citation ID": "hWjExXQAAAAJ:wSy_KLzO7YEC"
+    },
+    {
+      "Title": "Applying FAIRness: redesigning a biomedical informatics research data management pipeline",
+      "Authors": "M Parciak, T Bender, U Sax, CR Bauer",
+      "Journal": "Methods of information in medicine 58 (06), 229-234, 2019",
+      "Publication date": "2019",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:cBPnxVikjH8C",
+      "Citation ID": "hWjExXQAAAAJ:cBPnxVikjH8C"
+    },
+    {
+      "Title": "G-OnRamp: a Galaxy-based platform for collaborative annotation of eukaryotic genomes",
+      "Authors": "Y Liu, L Sargent, W Leung, SCR Elgin, J Goecks",
+      "Journal": "Bioinformatics 35 (21), 4422-4423, 2019",
+      "Publication date": "2019",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:wLxue7F8ec0C",
+      "Citation ID": "hWjExXQAAAAJ:wLxue7F8ec0C"
+    },
+    {
+      "Title": "Leveraging multi-omics tumor boards for precision medicine in the OHSU SMMART Treatments Program",
+      "Authors": "JM Keck, S Parmar, B Kong, Z Mitri, C Corless, A Kolodzie, A Creason, ...",
+      "Journal": "Cancer Research 79 (13_Supplement), 4929-4929, 2019",
+      "Publication date": "2019",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:naSTrk-c4S8C",
+      "Citation ID": "hWjExXQAAAAJ:naSTrk-c4S8C"
+    },
+    {
+      "Title": "The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2018 update",
+      "Authors": "E Afgan, D Baker, B Batut, M Van Den Beek, D Bouvier, M Čech, J Chilton, ...",
+      "Journal": "Nucleic acids research 46 (W1), W537-W544, 2018",
+      "Publication date": "2018",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:ndLnGcHYRF0C",
+      "Citation ID": "hWjExXQAAAAJ:ndLnGcHYRF0C"
+    },
+    {
+      "Title": "Practical computational reproducibility in the life sciences",
+      "Authors": "B Grüning, J Chilton, J Köster, R Dale, N Soranzo, M Van Den Beek, ...",
+      "Journal": "Cell systems 6 (6), 631-635, 2018",
+      "Publication date": "2018",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:nPT8s1NX_-sC",
+      "Citation ID": "hWjExXQAAAAJ:nPT8s1NX_-sC"
+    },
+    {
+      "Title": "Enabling precision medicine via standard communication of HTS provenance, analysis, and results",
+      "Authors": "G Alterovitz, D Dean, C Goble, MR Crusoe, S Soiland-Reyes, A Bell, ...",
+      "Journal": "PLoS biology 16 (12), e3000099, 2018",
+      "Publication date": "2018",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:oPLKW5k6eA4C",
+      "Citation ID": "hWjExXQAAAAJ:oPLKW5k6eA4C"
+    },
+    {
+      "Title": "A harmonized meta-knowledgebase of clinical interpretations of cancer genomic variants",
+      "Authors": "AH Wagner, B Walsh, G Mayfield, D Tamborero, D Sonkin, K Krysiak, ...",
+      "Journal": "BioRxiv, 366856, 2018",
+      "Publication date": "2018",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:X0DADzN9RKwC",
+      "Citation ID": "hWjExXQAAAAJ:X0DADzN9RKwC"
+    },
+    {
+      "Title": "Next generation indexing for genomic intervals",
+      "Authors": "V Jalili, M Matteucci, J Goecks, Y Deldjoo, S Ceri",
+      "Journal": "IEEE Transactions on Knowledge and Data Engineering 31 (10), 2008-2021, 2018",
+      "Publication date": "2018",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:c_xDhezhKKUC",
+      "Citation ID": "hWjExXQAAAAJ:c_xDhezhKKUC"
+    },
+    {
+      "Title": "Federated galaxy: Biomedical computing at the frontier",
+      "Authors": "E Afgan, V Jalili, N Goonasekera, J Taylor, J Goecks",
+      "Journal": "2018 IEEE 11th International Conference on Cloud Computing (CLOUD), 871-874, 2018",
+      "Publication date": "2018",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:37UQlXuwjP4C",
+      "Citation ID": "hWjExXQAAAAJ:37UQlXuwjP4C"
+    },
+    {
+      "Title": "Biology needs evolutionary software tools: Let’s build them right",
+      "Authors": "A Nekrutenko, G Team, J Goecks, J Taylor, D Blankenberg",
+      "Journal": "Molecular biology and evolution 35 (6), 1372-1375, 2018",
+      "Publication date": "2018",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:s85pQhAUCrAC",
+      "Citation ID": "hWjExXQAAAAJ:s85pQhAUCrAC"
+    },
+    {
+      "Title": "SMMART: Serial measurements of molecular and architectural responses to therapy",
+      "Authors": "B Johnson, J Keck, M Morris, K Siex, A Kolodzie, S Parmar, J Riesterer, ...",
+      "Journal": "Cancer Research 78 (13_Supplement), 3296-3296, 2018",
+      "Publication date": "2018",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:sJPMR1oEGYQC",
+      "Citation ID": "hWjExXQAAAAJ:sJPMR1oEGYQC"
+    },
+    {
+      "Title": "What else is in Salviae officinalis folium? Comprehensive species identification of plant raw material by DNA metabarcoding",
+      "Authors": "C Schmiderer, B Lukas, J Ruzicka, J Novak",
+      "Journal": "Planta Medica 84 (06/07), 428-433, 2018",
+      "Publication date": "2018",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:FsLZdJ3BAzkC",
+      "Citation ID": "hWjExXQAAAAJ:FsLZdJ3BAzkC"
+    },
+    {
+      "Title": "G-OnRamp: A Galaxy-based platform for creating genome browsers for collaborative genome annotation",
+      "Authors": "Y Liu, L Sargent, W Leung, SCR Elgin, J Goecks",
+      "Journal": "bioRxiv, 499558, 2018",
+      "Publication date": "2018",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:c59VksA5Vz4C",
+      "Citation ID": "hWjExXQAAAAJ:c59VksA5Vz4C"
+    },
+    {
+      "Title": "4. Coordinating variant interpretation knowledgebases improves clinical interpretation of genomic variants in cancers",
+      "Authors": "A Wagner, B Walsh, D Sonkin, R Dienstmann, XS Li, JS Beckmann, ...",
+      "Journal": "Cancer Genetics 226, 37, 2018",
+      "Publication date": "2018",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:jtI9f0ekYq0C",
+      "Citation ID": "hWjExXQAAAAJ:jtI9f0ekYq0C"
+    },
+    {
+      "Title": "Standardization and coordination of variant interpretation knowledgebases improves clinical genome actionability",
+      "Authors": "AH Wagner, B Walsh, D Sonkin, R Dienstmann, XS Li, J Beckmann, ...",
+      "Journal": "Cancer Research 78 (13_Supplement), 3282-3282, 2018",
+      "Publication date": "2018",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:TaaCk18tZOkC",
+      "Citation ID": "hWjExXQAAAAJ:TaaCk18tZOkC"
+    },
+    {
+      "Title": "Galaxy: An Open Platform for Data Analysis and Integration",
+      "Authors": "D Clements, J Goecks",
+      "Journal": "Plant and Animal Genome XXVI Conference (January 13-17, 2018), 2018",
+      "Publication date": "2018",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:9DLIHnF0jcYC",
+      "Citation ID": "hWjExXQAAAAJ:9DLIHnF0jcYC"
+    },
+    {
+      "Title": "G-OnRamp: Visualizing and Annotating Eukaryotic Genomes with Galaxy",
+      "Authors": "J Goecks, L Sargent, Y Liu, W Leung, SCR Elgin",
+      "Journal": "Plant and Animal Genome XXVI Conference (January 13-17, 2018), 2018",
+      "Publication date": "2018",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:2vr6o8x5NLkC",
+      "Citation ID": "hWjExXQAAAAJ:2vr6o8x5NLkC"
+    },
+    {
+      "Title": "Impact of germline and somatic missense variations on drug binding sites",
+      "Authors": "C Yan, N Pattabiraman, J Goecks, P Lam, A Nayak, Y Pan, ...",
+      "Journal": "The Pharmacogenomics Journal 17 (2), 128-136, 2017",
+      "Publication date": "2017",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:8dzOF9BpDQoC",
+      "Citation ID": "hWjExXQAAAAJ:8dzOF9BpDQoC"
+    },
+    {
+      "Title": "PNFBA-12 liquid biopsy for renal cell carcinoma",
+      "Authors": "U Al-Qassab, CA Lorentz, D Laganosky, K Ogan, V Master, J Pattaras, ...",
+      "Journal": "The Journal of Urology 197 (4S), e913-e914, 2017",
+      "Publication date": "2017",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:BJrgspguQaEC",
+      "Citation ID": "hWjExXQAAAAJ:BJrgspguQaEC"
+    },
+    {
+      "Title": "Interactive analysis of Long-read RNA isoforms with Iso-Seq Browser",
+      "Authors": "J Hu, P Uapinyoying, J Goecks",
+      "Journal": "BioRxiv, 102905, 2017",
+      "Publication date": "2017",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:RtRctb2lSbAC",
+      "Citation ID": "hWjExXQAAAAJ:RtRctb2lSbAC"
+    },
+    {
+      "Title": "Use of liquid biopsy for detection of renal cell carcinoma.",
+      "Authors": "D Laganosky, C Lorentz, U Al-Qassab, K Ogan, VA Master, M Issa, ...",
+      "Journal": "Journal of Clinical Oncology 35 (6_suppl), 521-521, 2017",
+      "Publication date": "2017",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:YB4bud6kWLwC",
+      "Citation ID": "hWjExXQAAAAJ:YB4bud6kWLwC"
+    },
+    {
+      "Title": "PDTM-25. GENETIC SUSCEPTIBILITY AND EVOLUTION OF PEDIATRIC IDH-MUTANT INFILTRATING ASTROCYTOMAS",
+      "Authors": "M Bornhorst, J Goecks, DR Boue, A Broniscer, E Hwang, C Koschmann, ...",
+      "Journal": "Neuro-Oncology 19 (suppl_6), vi195-vi195, 2017",
+      "Publication date": "2017",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:z8nqeaKD1nsC",
+      "Citation ID": "hWjExXQAAAAJ:z8nqeaKD1nsC"
+    },
+    {
+      "Title": "Genetic Susceptibility and Evolution of Pediatric IDH-Mutant Infiltrating Astrocytomas",
+      "Authors": "CY Ho, P Burger, F Rodriguez, D Solomon, S Mueller, D Boue, B Orr, ...",
+      "Journal": "JOURNAL OF NEUROPATHOLOGY AND EXPERIMENTAL NEUROLOGY 76 (6), 498-499, 2017",
+      "Publication date": "2017",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:nqdriD65xNoC",
+      "Citation ID": "hWjExXQAAAAJ:nqdriD65xNoC"
+    },
+    {
+      "Title": "LIQUID BIOPSY FOR RENAL CELL CARCINOMA: PNFBA-12",
+      "Authors": "U Al-Qassab, AC Lorentz, D Laganosky, K Ogan, V Master, J Pattaras, ...",
+      "Journal": "Journal of Urology 197 (4), e913-e914, 2017",
+      "Publication date": "2017",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:W2uZP3ddy8sC",
+      "Citation ID": "hWjExXQAAAAJ:W2uZP3ddy8sC"
+    },
+    {
+      "Title": "Genomic Mapping of Primary Unifocal and Multifocal Renal Cell Carcinoma",
+      "Authors": "RC Obeng, A Lorentz, U Alqassab, D Laganosky, C Keith, F Lian, K Ogan, ...",
+      "Journal": "LABORATORY INVESTIGATION 97, 246A-246A, 2017",
+      "Publication date": "2017",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:SxCCDk4iOpsC",
+      "Citation ID": "hWjExXQAAAAJ:SxCCDk4iOpsC"
+    },
+    {
+      "Title": "Genome Annotation with Galaxy",
+      "Authors": "D Clements, J Goecks",
+      "Journal": "Plant and Animal Genome XXV Conference (January 13-18, 2017), 2017",
+      "Publication date": "2017",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:QoJ_w57xiyAC",
+      "Citation ID": "hWjExXQAAAAJ:QoJ_w57xiyAC"
+    },
+    {
+      "Title": "Biocompute objects—a step towards evaluation and validation of biomedical scientific computations",
+      "Authors": "V Simonyan, J Goecks, R Mazumder",
+      "Journal": "PDA journal of pharmaceutical science and technology 71 (2), 136, 2016",
+      "Publication date": "2016",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:s9ia6_kGH2AC",
+      "Citation ID": "hWjExXQAAAAJ:s9ia6_kGH2AC"
+    },
+    {
+      "Title": "BLOOD SAMPLING FOR LIQUID BIOPSY OF RENAL CELL CARCINOMA OVERCOMES SAMPLING ERROR ASSOCIATED WITH BIOPSY FOR MOLECULAR GENOTYPING: MP71-01",
+      "Authors": "C Keith, F Lian, R Arnold, M Rossi, A Osunkoya, J Goecks, J Gaspar, ...",
+      "Journal": "Journal of Urology 195 (4), e915, 2016",
+      "Publication date": "2016",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:hvmnpdAuIbkC",
+      "Citation ID": "hWjExXQAAAAJ:hvmnpdAuIbkC"
+    },
+    {
+      "Title": "A quick guide for building a successful bioinformatics community",
+      "Authors": "A Budd, M Corpas, MD Brazas, JC Fuller, J Goecks, NJ Mulder, M Michaut, ...",
+      "Journal": "PLoS computational biology 11 (2), e1003972, 2015",
+      "Publication date": "2015",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:4aZ_i-5WJEQC",
+      "Citation ID": "hWjExXQAAAAJ:4aZ_i-5WJEQC"
+    },
+    {
+      "Title": "Open pipelines for integrated tumor genome profiles reveal differences between pancreatic cancer tumors and cell lines",
+      "Authors": "J Goecks, BF El‐Rayes, SK Maithel, HJ Khoury, J Taylor, MR Rossi",
+      "Journal": "Cancer medicine 4 (3), 392-403, 2015",
+      "Publication date": "2015",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:KWzIFqRkAKkC",
+      "Citation ID": "hWjExXQAAAAJ:KWzIFqRkAKkC"
+    },
+    {
+      "Title": "The Bioinformatics Open Source Conference (BOSC) 2013",
+      "Authors": "NL Harris, PJA Cock, BA Chapman, J Goecks, HR Hotz, H Lapp",
+      "Journal": "Bioinformatics 31 (2), 299-300, 2015",
+      "Publication date": "2015",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:Zh0EY9V9P6UC",
+      "Citation ID": "hWjExXQAAAAJ:Zh0EY9V9P6UC"
+    },
+    {
+      "Title": "RNA sequencing with next-generation sequencing",
+      "Authors": "SM Brown, J Goecks",
+      "Journal": "Next-generation DNA sequencing informatics, 285-318, 2015",
+      "Publication date": "2015",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:RuPIJ_LgqDgC",
+      "Citation ID": "hWjExXQAAAAJ:RuPIJ_LgqDgC"
+    },
+    {
+      "Title": "Dietary and flight energetic adaptations in a salivary gland transcriptome of an insectivorous bat",
+      "Authors": "CJ Phillips, CD Phillips, J Goecks, EP Lessa, CG Sotero-Caio, B Tandler, ...",
+      "Journal": "PloS one 9 (1), e83512, 2014",
+      "Publication date": "2014",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:ZqE1mSdD_DYC",
+      "Citation ID": "hWjExXQAAAAJ:ZqE1mSdD_DYC"
+    },
+    {
+      "Title": "Integrative approach reveals composition of endoparasitoid wasp venoms",
+      "Authors": "J Goecks, NT Mortimer, JA Mobley, GJ Bowersock, J Taylor, TA Schlenke",
+      "Journal": "PloS one 8 (5), e64125, 2013",
+      "Publication date": "2013",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:kNdYIx-mwKoC",
+      "Citation ID": "hWjExXQAAAAJ:kNdYIx-mwKoC"
+    },
+    {
+      "Title": "Parasitoid wasp venom SERCA regulates Drosophila calcium levels and inhibits cellular immunity",
+      "Authors": "NT Mortimer, J Goecks, BZ Kacsoh, JA Mobley, GJ Bowersock, J Taylor, ...",
+      "Journal": "Proceedings of the National Academy of Sciences 110 (23), 9427-9432, 2013",
+      "Publication date": "2013",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:3fE2CSJIrl8C",
+      "Citation ID": "hWjExXQAAAAJ:3fE2CSJIrl8C"
+    },
+    {
+      "Title": "Web-based visual analysis for high-throughput genomics",
+      "Authors": "J Goecks, C Eberhard, T Too, Galaxy Team outreach@ galaxyproject. org, ...",
+      "Journal": "BMC genomics 14, 1-11, 2013",
+      "Publication date": "2013",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:KlAtU1dfN6UC",
+      "Citation ID": "hWjExXQAAAAJ:KlAtU1dfN6UC"
+    },
+    {
+      "Title": "NGS analyses by visualization with Trackster",
+      "Authors": "J Goecks, N Coraor, TG Team, A Nekrutenko, J Taylor",
+      "Journal": "Nature biotechnology 30 (11), 1036-1039, 2012",
+      "Publication date": "2012",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:8k81kl-MbHgC",
+      "Citation ID": "hWjExXQAAAAJ:8k81kl-MbHgC"
+    },
+    {
+      "Title": "Lessons learned from galaxy, a web-based platform for high-throughput genomic analyses",
+      "Authors": "J Goecks, A Nekrutenko, J Taylor, Galaxy Team",
+      "Journal": "2012 IEEE 8th International Conference on E-Science, 1-6, 2012",
+      "Publication date": "2012",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:MXK_kJrjxJIC",
+      "Citation ID": "hWjExXQAAAAJ:MXK_kJrjxJIC"
+    },
+    {
+      "Title": "Turning pipe dreams into reality",
+      "Authors": "P Li, J Goecks, TL Lee",
+      "Journal": "Genome biology 13, 1-2, 2012",
+      "Publication date": "2012",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:5nxA0vEk-isC",
+      "Citation ID": "hWjExXQAAAAJ:5nxA0vEk-isC"
+    },
+    {
+      "Title": "Galaxy: A gateway to tools in e-science",
+      "Authors": "E Afgan, J Goecks, D Baker, N Coraor, ...",
+      "Journal": "Guide to e-science: next generation scientific research and discovery, 145-177, 2011",
+      "Publication date": "2011",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:_FxGoFyzp5QC",
+      "Citation ID": "hWjExXQAAAAJ:_FxGoFyzp5QC"
+    },
+    {
+      "Title": "The Galaxy Track Browser: Transforming the genome browser from visualization tool to analysis tool",
+      "Authors": "J Goecks, K Li, D Clements, J Taylor, Galaxy Team",
+      "Journal": "2011 IEEE Symposium on Biological Data Visualization (BioVis)., 39-46, 2011",
+      "Publication date": "2011",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:0EnyYjriUFMC",
+      "Citation ID": "hWjExXQAAAAJ:0EnyYjriUFMC"
+    },
+    {
+      "Title": "Galaxy: a comprehensive approach for supporting accessible, reproducible, and transparent computational research in the life sciences",
+      "Authors": "J Goecks, A Nekrutenko, J Taylor, TG Team",
+      "Journal": "Genome Biol 11 (8), R86, 2010",
+      "Publication date": "2010",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:u-x6o8ySG0sC",
+      "Citation ID": "hWjExXQAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+      "Title": "Challenges in supporting end-user privacy and security management with social navigation",
+      "Authors": "J Goecks, WK Edwards, ED Mynatt",
+      "Journal": "Proceedings of the 5th Symposium on Usable Privacy and Security, 5, 2009",
+      "Publication date": "2009",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:zYLM7Y9cAGgC",
+      "Citation ID": "hWjExXQAAAAJ:zYLM7Y9cAGgC"
+    },
+    {
+      "Title": "Understanding the social navigation user experience",
+      "Authors": "J Goecks",
+      "Journal": "Georgia Institute of Technology, 2009",
+      "Publication date": "2009",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:UebtZRa9Y70C",
+      "Citation ID": "hWjExXQAAAAJ:UebtZRa9Y70C"
+    },
+    {
+      "Title": "Charitable technologies: Opportunities for collaborative computing in nonprofit fundraising",
+      "Authors": "J Goecks, A Voida, S Voida, ED Mynatt",
+      "Journal": "Proceedings of the 2008 ACM conference on Computer supported cooperative …, 2008",
+      "Publication date": "2008",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:Y0pCki6q_DkC",
+      "Citation ID": "hWjExXQAAAAJ:Y0pCki6q_DkC"
+    },
+    {
+      "Title": "Method and system for usage analyzer that determines user accessed sources, indexes data subsets, and associated metadata, processing implicit queries based on potential …",
+      "Authors": "ST Dumais, EJ Horvitz, EB Cutrell, JJ Cadiz, G Jancke, RK Sarin, ...",
+      "Journal": "US Patent 7,162,473, 2007",
+      "Publication date": "2007",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:d1gkVwhDpl0C",
+      "Citation ID": "hWjExXQAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+      "Title": "Supporting privacy management via community experience and expertise",
+      "Authors": "J Goecks, E Mynatt",
+      "Journal": "Communities and Technologies 2005, 397-417, 2005",
+      "Publication date": "2005",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:W7OEmFMy1HYC",
+      "Citation ID": "hWjExXQAAAAJ:W7OEmFMy1HYC"
+    },
+    {
+      "Title": "Social approaches to end-user privacy management",
+      "Authors": "J Goecks, ED Mynatt",
+      "Journal": "Security and Usability: Designing Secure Systems That People Can Use, 523-545, 2005",
+      "Publication date": "2005",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:YsMSGLbcyi4C",
+      "Citation ID": "hWjExXQAAAAJ:YsMSGLbcyi4C"
+    },
+    {
+      "Title": "Using Social Methods to Support Privacy Management",
+      "Authors": "J Goecks, ED Mynatt",
+      "Journal": "Security & Usability: Designing Secure Systems That People Can Use, 2005",
+      "Publication date": "2005",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:WF5omc3nYNoC",
+      "Citation ID": "hWjExXQAAAAJ:WF5omc3nYNoC"
+    },
+    {
+      "Title": "Leveraging social networks for information sharing",
+      "Authors": "J Goecks, ED Mynatt",
+      "Journal": "Proceedings of the 2004 ACM conference on Computer supported cooperative …, 2004",
+      "Publication date": "2004",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:2osOgNQ5qMEC",
+      "Citation ID": "hWjExXQAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+      "Title": "Augmenting shared personal calendars",
+      "Authors": "J Tullio, J Goecks, ED Mynatt, DH Nguyen",
+      "Journal": "Proceedings of the 15th annual ACM symposium on User interface software and …, 2002",
+      "Publication date": "2002",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:9yKSN-GCB0IC",
+      "Citation ID": "hWjExXQAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+      "Title": "NuggetMine: Intelligent groupware for opportunistically sharing information nuggets",
+      "Authors": "J Goecks, D Cosley",
+      "Journal": "Proceedings of the 7th international conference on Intelligent user …, 2002",
+      "Publication date": "2002",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:qjMakFHDy7sC",
+      "Citation ID": "hWjExXQAAAAJ:qjMakFHDy7sC"
+    },
+    {
+      "Title": "Enabling privacy management in ubiquitous computing environments through trust and reputation systems",
+      "Authors": "J Goecks, E Mynatt",
+      "Journal": "Proc. of the 2002 ACM Conference on Computer Supported Cooperative Work, New …, 2002",
+      "Publication date": "2002",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:UeHWp8X0CEIC",
+      "Citation ID": "hWjExXQAAAAJ:UeHWp8X0CEIC"
+    },
+    {
+      "Title": "Learning users' interests by unobtrusively observing their normal behavior",
+      "Authors": "J Goecks, J Shavlik",
+      "Journal": "Proceedings of the 5th international conference on Intelligent user …, 2000",
+      "Publication date": "2000",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:u5HHmVD_uO8C",
+      "Citation ID": "hWjExXQAAAAJ:u5HHmVD_uO8C"
+    },
+    {
+      "Title": "Estimating Users’ Interest in Web Pages by Unobtrusively Monitoring Users’ Normal Behavior",
+      "Authors": "J Shavlik, J Goecks",
+      "Journal": "Proceedings of the 2000 AAAI Spring Symposium on Adaptive User Interfaces, 2000",
+      "Publication date": "2000",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:eQOLeE2rZwMC",
+      "Citation ID": "hWjExXQAAAAJ:eQOLeE2rZwMC"
+    },
+    {
+      "Title": "Automatically labeling web pages based on normal user actions",
+      "Authors": "J Goecks, J Shavlik",
+      "Journal": "Procedings of the IJCAI Workshop on Machine Learning for Information Filtering, 1999",
+      "Publication date": "1999",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:IjCSPb-OGe4C",
+      "Citation ID": "hWjExXQAAAAJ:IjCSPb-OGe4C"
     },
     {
       "Title": "T.(2010) Galaxy: a comprehensive approach for supporting accessible, reproducible, and transparent computational research in the life sciences",
-      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&citation_for_view=hWjExXQAAAAJ:Tyk-4Ss8FVUC",
       "Authors": "J Goecks, A Nekrutenko, J Taylor",
       "Journal": "Genome Biology 11 (8), R86, 0",
-      "Publication date": ""
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:Tyk-4Ss8FVUC",
+      "Citation ID": "hWjExXQAAAAJ:Tyk-4Ss8FVUC"
+    },
+    {
+      "Title": "Galaxy Machine Learning Workbench",
+      "Authors": "K Kamali, Q Gu, A Kumar, J Goecks, B Gruning, A Nekrutenko",
+      "Journal": "Plant and Animal Genome XXIX Conference (January 8-12, 2022), 0",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:L24QuVWYgZ0C",
+      "Citation ID": "hWjExXQAAAAJ:L24QuVWYgZ0C"
+    },
+    {
+      "Title": "G-OnRamp: Create Genome Browsers for Collaborative Eukaryotic Genome Annotations",
+      "Authors": "L Sargent, Y Liu, W Leung, J Goecks, SCR Elgin",
+      "Journal": "Plant and Animal Genome XXVII Conference (January 12-16, 2019), 0",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:wUn16MOA3RoC",
+      "Citation ID": "hWjExXQAAAAJ:wUn16MOA3RoC"
     }
   ],
-  "others": []
+  "others": [
+    {
+      "Title": "Using genome browsers constructed by G-OnRamp to provide students with a Course-based Undergraduate Research Experience in genome annotation",
+      "Authors": "W Leung, L Sargent, Y Liu, N Mortimer, D Lopatto, J Goecks, S Elgin",
+      "Publication date": "2020",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:pYKElYtJMmwC",
+      "Citation ID": "hWjExXQAAAAJ:pYKElYtJMmwC"
+    },
+    {
+      "Title": "Generating genome browsers to facilitate undergraduate-driven collaborative genome annotation",
+      "Authors": "L Sargent, Y Liu, W Leung, N Mortimer, D Lopatto, J Goecks, SCR Elgin",
+      "Publication date": "2019",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:nPTYJWkExTIC",
+      "Citation ID": "hWjExXQAAAAJ:nPTYJWkExTIC"
+    },
+    {
+      "Title": "G-OnRamp: create genome browsers that enable undergraduate students to participate in collaborative genome annotations",
+      "Authors": "W Leung, Y Liu, L Sargent, J Goecks, SCR Elgin",
+      "Publication date": "2017",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:hQUaER0FWQ4C",
+      "Citation ID": "hWjExXQAAAAJ:hQUaER0FWQ4C"
+    },
+    {
+      "Title": "A Web-based Software Resource for Interactive Analysis of Multiplex Tissue Imaging Datasets",
+      "Authors": "DS Coussens, B Grüning, PK Sorger, A Sokolov, J Goecks",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:9NZAP19TdFAC",
+      "Citation ID": "hWjExXQAAAAJ:9NZAP19TdFAC"
+    },
+    {
+      "Title": "Guirguis, Mina 725 Gulenko, Anton 912 Gunduz, Gurhan 383",
+      "Authors": "Y Chen, A Chevalier, M Chi, T Chiba, C Choi, A Chopra, P Conoval, ...",
+      "Link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hWjExXQAAAAJ&pagesize=100&citation_for_view=hWjExXQAAAAJ:lYAcb2jw7qUC",
+      "Citation ID": "hWjExXQAAAAJ:lYAcb2jw7qUC"
+    }
+  ]
 }
